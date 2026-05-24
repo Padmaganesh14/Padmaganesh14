@@ -1,72 +1,85 @@
-# Hi, I'm Padma Ganesh
+<h1 align="center">Hi 👋 I'm Vignesh</h1>
 
-B.Tech CSE Student | MERN Stack Developer  
-Focused on building modern, responsive, and scalable web applications.
+<h3 align="center">
+🚀 Engineering Student | DSA in C++ | Building Cool Projects
+</h3>
 
----
-
-## About Me
-
-- MERN Stack Developer (MongoDB, Express.js, React, Node.js)  
-- B.Tech Computer Science and Engineering student  
-- Interested in Full Stack Development, Cloud Computing, and Software Engineering  
-- Passionate about creating real-world projects  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Hackathon+Builder;Learning+Everyday+🔥">
+</p>
 
 ---
 
-## Tech Stack
+# 💫 About Me
 
-- MongoDB  
-- Express.js  
-- React  
-- Node.js  
-- JavaScript  
-- HTML  
-- CSS  
-- Python  
-- Java  
+💻 Passionate about Software Development  
+📚 Currently learning DSA in C++  
+🚀 Building Projects & Participating in Hackathons  
+🌱 Exploring Full Stack Development  
 
 ---
 
-## Projects
+# 🛠 Tech Stack
 
-- Smart Waste Solutions  
-- Plant Care AI
-- patient report managment system
-- More projects coming soon  
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode"/>
 
-## Currently Learning
-
-- Advanced MERN Development  
-- System Design  
-- Cloud Computing  
-- Performance Optimization  
+</p>
 
 ---
 
-## GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Padmaganesh14&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Padmaganesh14&layout=compact)
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Padmaganesh14&show_icons=true&theme=tokyonight"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padmaganesh14&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Padmaganesh14&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## Connect With Me
+# 🏆 Achievements
 
-- LinkedIn: https://www.linkedin.com/in/padma-ganesh-p/  
-- Email:ganeshpadma730@gmail.com
+🏅 Hackathon Finalist  
+💡 Building innovative projects  
+📈 Continuous learning  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://instagram.com">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-## Goals
+<p align="center">
 
-- Build scalable full-stack applications  
-- Contribute to open source
-- i need to do more intership
-- i also i like to do freelancing 
-- Secure a great developer role  
+⭐ Thanks for visiting my profile ⭐
 
----
+</p>
