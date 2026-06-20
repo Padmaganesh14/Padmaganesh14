@@ -1,84 +1,82 @@
-<h1 align="center">Hi 👋, I'm Padma Ganesh</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • MERN Stack Enthusiast • Software Engineering Student
-</h3>
+# 👋 Hi, I'm Padma Ganesh
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Hackathon+Finalist;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
-</p>
+### Full Stack Developer • MERN Stack • Software Engineering
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Padmaganesh14&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Hackathon+Finalist;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/padma-ganesh-p/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ganeshpadma730@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Padmaganesh14">
+  <img src="https://img.shields.io/github/followers/Padmaganesh14?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Padmaganesh14&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-```javascript
-const padmaGanesh = {
-    education: "B.Tech CSE",
-    college: "B.S. Abdur Rahman Crescent Institute",
-    cgpa: "8.85",
-    role: "Full Stack Developer",
-    technologies: ["React", "Node.js", "MongoDB", "Express.js"],
-    interests: [
-        "Software Engineering",
-        "Cloud Computing",
-        "System Design",
-        "AI Applications"
-    ],
-    currentlyLearning: [
-        "Advanced MERN",
-        "DSA",
-        "Cloud Technologies"
-    ]
-};
+```yaml
+Name: Padma Ganesh
+Role: Full Stack Developer
+Education: B.Tech CSE
+College: B.S. Abdur Rahman Crescent Institute
+CGPA: 8.85
+
+Interests:
+  - Full Stack Development
+  - Software Engineering
+  - Cloud Computing
+  - AI Applications
+
+Currently Learning:
+  - Advanced MERN Stack
+  - System Design
+  - Cloud Technologies
+  - Data Structures & Algorithms
 ```
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Stack
 
-### Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,rust" />
 
-### Frontend
+<br><br>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,tailwind" />
 
-### Backend & Database
+<br><br>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-🏅 Finalist — Saveetha 24-Hour Hackathon
+🏅 Saveetha 24-Hour Hackathon Finalist
 
-🚀 Top 60 Finalists among 4000+ Teams
+🚀 Top 60 Teams Among 4000+ Participants
 
-🔐 Built Verifixa — KYC Verification Platform
+💻 Active Full Stack Developer
 
-💡 Passionate about solving real-world problems using technology
+📚 Consistently Improving DSA & Problem Solving
 
 ---
 
@@ -86,17 +84,17 @@ const padmaGanesh = {
 
 ### 🔐 Verifixa — KYC Verification Platform
 
-- Secure Digital KYC Verification
-- Identity Validation Workflow
-- Improved User Onboarding
+- Digital Identity Verification
+- Secure User Onboarding
+- Streamlined Verification Workflow
 - Hackathon Finalist Project
 
 ---
 
 ### 🌱 AI-Based Plant Health Detection
 
-- AI-powered Disease Detection
-- Plant Identification System
+- Disease Detection Using AI
+- Plant Identification
 - React + TypeScript + Tailwind
 - Deployed on Vercel
 
@@ -105,54 +103,68 @@ const padmaGanesh = {
 ### 🏥 Patient Medical Records Management
 
 - MERN Stack Application
-- Digital Patient Record Storage
-- Healthcare Data Management
+- Digital Healthcare Records
+- Structured Patient Data Management
 
 ---
 
 ### ♻️ Smart Waste Management System
 
-- Waste Monitoring Dashboard
-- Data Visualization
-- Operational Tracking System
+- Waste Tracking Dashboard
+- Analytics & Monitoring
+- Operational Data Visualization
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Padmaganesh14&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Padmaganesh14&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padmaganesh14&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padmaganesh14&layout=compact&hide_border=true&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Padmaganesh14&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Activity Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Padmaganesh14&theme=tokyo-night"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Padmaganesh14&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
 ## 🎯 2026 Goals
 
-- Secure a Software Development Internship
-- Improve DSA & Problem Solving
-- Build Scalable Full Stack Applications
+- Secure a Software Engineering Internship
+- Build Production-Ready Applications
 - Contribute to Open Source
 - Learn Cloud & DevOps
+- Strengthen System Design Skills
 
 ---
 
@@ -161,21 +173,21 @@ const padmaGanesh = {
 <p align="center">
 
 <a href="https://www.linkedin.com/in/padma-ganesh-p/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:ganeshpadma730@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/Padmaganesh14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">
-💡 Learn • Build • Improve • Repeat
-</h3>
+<div align="center">
+
+### 💡 Learn • Build • Improve • Repeat
+
+⭐ If you like my projects, consider starring them!
+
+</div>
