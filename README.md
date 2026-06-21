@@ -33,7 +33,7 @@ Name: Padma Ganesh
 Role: Full Stack Developer
 Education: B.Tech CSE
 College: B.S. Abdur Rahman Crescent Institute
-CGPA: 8.85
+CGPA: 8.76
 
 Interests:
   - Full Stack Development
