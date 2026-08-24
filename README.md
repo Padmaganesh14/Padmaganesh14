@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Padma Ganesh
 
-### Full Stack Developer • MERN Stack • Software Engineering
+### Full Stack Developer • DEVEOPS • Software Engineering
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Hackathon+Finalist;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 
